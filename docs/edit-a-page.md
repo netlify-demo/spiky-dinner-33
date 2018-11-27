@@ -25,10 +25,6 @@ Make sure you’ve [set up this project](/docs/getting-started) on your local
 machine. Then, open up the source file for this page (`/docs/edit-a-page.md`) in
 a text editor.
 
-
-**Delete or edit this line so you can see that something changed.**
-
-
 Docusaurus will rebuild the site locally, and you should be able to see the updated
 page at <a href='http://localhost:3000/docs/edit-a-page'
 target='_blank'>localhost:3000/docs/edit-a-page</a>
